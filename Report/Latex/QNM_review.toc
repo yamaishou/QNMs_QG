@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Abstract}{1}{section.1}%
+\contentsline {section}{\numberline {2}Introduction}{1}{section.2}%
+\contentsline {section}{\numberline {3}Background}{2}{section.3}%
+\contentsline {subsubsection}{\numberline {3.0.1}AdS/CFT correspondence}{2}{subsubsection.3.0.1}%
+\contentsline {subsubsection}{\numberline {3.0.2}The CFT side of Maldacena's case}{2}{subsubsection.3.0.2}%
+\contentsline {subsubsection}{\numberline {3.0.3}The AdS side of Maldacena's case}{2}{subsubsection.3.0.3}%
+\contentsline {subsubsection}{\numberline {3.0.4}Maldacena's correspondence}{3}{subsubsection.3.0.4}%
+\contentsline {subsection}{\numberline {3.1}Loop Quantum Gravity and Immirzi parameter}{4}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Appearance of QNMs in QG}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Appearance of QNMs in string theory}{4}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Role of QNMs in LQG}{4}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{5}{section.6}%
